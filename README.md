@@ -2,7 +2,7 @@
 
 Dizer Jekyll Creative Portfolio Template ported from [Dizer HTML Template](https://themefisher.com/products/dizer/)
 
-![dizer-jekyll](https://assets.teamosis.com/thums/dizer.png)
+![dizer-jekyll](https://assets.teamosis.com/thumbs/dizer.png)
 
 [Live Preview](http://demo.themefisher.com/dizer-jekyll/)
 
